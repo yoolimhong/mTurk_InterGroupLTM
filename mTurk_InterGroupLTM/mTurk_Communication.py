@@ -10,8 +10,8 @@ import pandas as pd
 #ACCESS_ID = 'xxxxx'
 #SECRET_KEY = 'ask lab member'
 
-#HOST = 'mechanicalturk.sandbox.amazonaws.com' # Use this to post to the sandbox
-HOST = 'mechanicalturk.amazonaws.com' # Use this to post to the real mTurk
+HOST = 'mechanicalturk.sandbox.amazonaws.com' # Use this to post to the sandbox
+#HOST = 'mechanicalturk.amazonaws.com' # Use this to post to the real mTurk
 
 def Bank():
   mtc = MTurkConnection(aws_access_key_id=ACCESS_ID,
