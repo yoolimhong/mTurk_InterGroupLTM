@@ -7,8 +7,8 @@ import json, os
 import pandas as pd
 
 ## CCLAB ##
-#ACCESS_ID = 'AKIAJGBDQHB6TKAUDNLA'
-#SECRET_KEY = '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'
+#ACCESS_ID = 'xxxxx'
+#SECRET_KEY = 'ask lab member'
 
 #HOST = 'mechanicalturk.sandbox.amazonaws.com' # Use this to post to the sandbox
 HOST = 'mechanicalturk.amazonaws.com' # Use this to post to the real mTurk
